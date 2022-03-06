@@ -1,3 +1,9 @@
+<div id="header" align="center">
+<img src="https://media.giphy.com/media/2sMOUSy658zgS1CjY7/giphy.gif" width="200">
+Junior Back-end developer
+</div>
+
+
 ### Hi there 👋
 
 <!--
