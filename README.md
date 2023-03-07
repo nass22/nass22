@@ -34,7 +34,7 @@
 const myProfile = {
   firstName: "Samir",
   lastName: "Nacer",
-  age: 31,
+  age: 32,
   softSkills: [Autonomy, Team player, Problem-Solving, Quick learner]  
 }
 ```
