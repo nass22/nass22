@@ -7,7 +7,6 @@
   </div>
   
   </br>
-  </br>
   <div align="center">
     <div dir="auto">
       <a href="#">
@@ -38,6 +37,7 @@
       </a>
     </div>
   </div>
+  </br>
 </h3>
 
 ---
