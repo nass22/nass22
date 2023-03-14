@@ -15,9 +15,7 @@
         <img src="https://img.icons8.com/color/64/000000/css3.png"/>
       </a>
         <img src="https://img.icons8.com/color/64/000000/javascript--v1.png"/>
-      </a>
-     </div>
-     <div dir="auto">                                                                    
+      </a>                                                                  
       <a href="#">
         <img src="https://img.icons8.com/officel/64/php-logo.png"/>
       </a>
@@ -26,6 +24,9 @@
       </a>
       <a href="#">
         <img src="https://img.icons8.com/color/64/mysql.png"/>
+      </a>
+      <a href="#">
+        <img src="https://img.icons8.com/color/64/python.png"/>
       </a>
     </div>
   </div>
