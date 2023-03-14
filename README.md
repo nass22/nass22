@@ -9,24 +9,24 @@
   <div align="center">
     <div dir="auto">
       <a href="#">
-        <img src="https://img.icons8.com/color/64/000000/html-5--v1.png"/>
+        <img src="https://img.icons8.com/color/55/000000/html-5--v1.png"/>
       </a>
       <a href="#">
-        <img src="https://img.icons8.com/color/64/000000/css3.png"/>
+        <img src="https://img.icons8.com/color/55/000000/css3.png"/>
       </a>
-        <img src="https://img.icons8.com/color/64/000000/javascript--v1.png"/>
+        <img src="https://img.icons8.com/color/55/000000/javascript--v1.png"/>
       </a>                                                                  
       <a href="#">
-        <img src="https://img.icons8.com/officel/64/php-logo.png"/>
+        <img src="https://img.icons8.com/officel/55/php-logo.png"/>
       </a>
       <a href="#">
-        <img src="https://img.icons8.com/ios-filled/64/sql.png"/>
+        <img src="https://img.icons8.com/ios-filled/55/sql.png"/>
       </a>
       <a href="#">
-        <img src="https://img.icons8.com/color/64/mysql.png"/>
+        <img src="https://img.icons8.com/color/55/mysql.png"/>
       </a>
       <a href="#">
-        <img src="https://img.icons8.com/color/64/python.png"/>
+        <img src="https://img.icons8.com/color/55/python.png"/>
       </a>
     </div>
   </div>
