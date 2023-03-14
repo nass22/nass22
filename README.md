@@ -19,22 +19,22 @@
         <img src="https://img.icons8.com/color/55/000000/javascript--v1.png"/>
       </a>
       <a href="#">
+        <img src="https://img.icons8.com/color/55/python.png"/>
+      </a>
+      <a href="#">
+        <img src="https://img.icons8.com/color/55/django.png"/>
+      </a>
+      <a href="#">
         <img src="https://img.icons8.com/officel/55/php-logo.png"/>
       </a>
       <a href="#">
         <img src="https://img.icons8.com/fluency/55/laravel.png"/>
       </a>
       <a href="#">
-        <img src="https://img.icons8.com/external-outline-juicy-fish/55/external-sql-coding-and-development-outline-outline-juicy-fish.png"/>
-      </a>
-      <a href="#">
         <img src="https://img.icons8.com/color/55/my-sql.png"/>
       </a>
       <a href="#">
-        <img src="https://img.icons8.com/color/55/python.png"/>
-      </a>
-      <a href="#">
-        <img src="https://img.icons8.com/color/55/django.png"/>
+        <img src="https://img.icons8.com/external-outline-juicy-fish/55/external-sql-coding-and-development-outline-outline-juicy-fish.png"/>
       </a>
     </div>
   </div>
