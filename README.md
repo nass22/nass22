@@ -1,6 +1,6 @@
 
 
-<h2> Hi, I'm Nacer Samir! <img align='right' src="https://media.giphy.com/media/2sMOUSy658zgS1CjY7/giphy.gif" width="250"></h2>
+<h2 align="center"> Hi, I'm Nacer Samir! <img align='right' src="https://media.giphy.com/media/2sMOUSy658zgS1CjY7/giphy.gif" width="250"></h2>
 
 <h3>
   Junior Back-end developer
@@ -16,7 +16,6 @@
       </a>
         <img src="https://img.icons8.com/color/55/000000/javascript--v1.png"/>
       </a>
-      <a href=""><img src="https://cdn.cdnlogo.com/logos/p/71/php.svg"></a>
       <a href="#">
         <img src="https://img.icons8.com/officel/55/php-logo.png"/>
       </a>
@@ -24,10 +23,10 @@
         <img src="https://img.icons8.com/fluency/55/laravel.png"/>
       </a>
       <a href="#">
-        <img src="https://img.icons8.com/ios-filled/55/sql.png"/>
+        <img src="https://img.icons8.com/external-outline-juicy-fish/55/external-sql-coding-and-development-outline-outline-juicy-fish.png"/>
       </a>
       <a href="#">
-        <img src="https://img.icons8.com/color/55/mysql.png"/>
+        <img src="https://img.icons8.com/color/55/my-sql.png"/>
       </a>
       <a href="#">
         <img src="https://img.icons8.com/color/55/python.png"/>
@@ -55,8 +54,9 @@ const myProfile = {
 ---
 
 ### :mag_right: Also on:
-
-<a href="https://www.linkedin.com/in/samir-nacer/">
-  <img src="https://img.icons8.com/ios-filled/64/000000/linkedin.png"/>
-</a>
+<div align="center">
+  <a href="https://www.linkedin.com/in/samir-nacer/">
+    <img src="https://img.icons8.com/color/55/linkedin.png"/>
+  </a>
+ </div>
 
