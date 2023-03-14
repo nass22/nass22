@@ -7,7 +7,7 @@
   </br>
   </br>
   <div align="center">
-    <div dir="auto>
+    <div dir="auto">
       <a href="#">
         <img src="https://img.icons8.com/color/64/000000/html-5--v1.png"/>
       </a>
@@ -16,14 +16,16 @@
       </a>
         <img src="https://img.icons8.com/color/64/000000/javascript--v1.png"/>
       </a>
+     </div>
+     <div dir="auto">                                                                    
       <a href="#">
-        <img src="https://img.icons8.com/dusk/64/000000/php-logo.png"/>
+        <img src="https://img.icons8.com/officel/64/php-logo.png"/>
       </a>
       <a href="#">
         <img src="https://img.icons8.com/ios-filled/64/sql.png"/>
       </a>
       <a href="#">
-        <img src="https://img.icons8.com/color/64/000000/mysql-logo.png"/>
+        <img src="https://img.icons8.com/color/64/mysql.png"/>
       </a>
     </div>
   </div>
