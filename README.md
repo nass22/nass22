@@ -19,7 +19,7 @@
     <img src="https://img.icons8.com/dusk/64/000000/php-logo.png"/>
   </a>
   <a href="#">
-    <img src="https://img.icons8.com/external-soft-fill-juicy-fish/64/000000/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png"/>
+    <img src="https://img.icons8.com/ios-filled/256/sql.png"/>
   </a>
   <a href="#">
     <img src="https://img.icons8.com/color/64/000000/mysql-logo.png"/>
