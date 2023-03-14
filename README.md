@@ -59,7 +59,7 @@ const myProfile = {
 
 ### :mag_right: Also on:
 <div>
-  <a href="https://www.linkedin.com/in/samir-nacer/">
+  <a href="https://www.linkedin.com/in/samir-nacer/" target="_blank">
     <img src="https://img.icons8.com/color/55/linkedin.png"/>
   </a>
  </div>
