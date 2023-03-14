@@ -38,9 +38,6 @@
       </a>
     </div>
   </div>
-  <div align="center">
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nass22)](https://github.com/nass22/github-readme-stats)
-  </div>
 </h3>
 
 ---
