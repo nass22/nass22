@@ -28,6 +28,9 @@
       <a href="#">
         <img src="https://img.icons8.com/color/55/python.png"/>
       </a>
+      <a href="#">
+        <img src="https://img.icons8.com/color/55/django.png"/>
+      </a>
     </div>
   </div>
 </h3>
