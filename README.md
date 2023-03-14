@@ -38,6 +38,9 @@
       </a>
     </div>
   </div>
+  <div align="center">
+    [![Nass22's GitHub stats](https://github-readme-stats.vercel.app/api?username=nass22)](https://github.com/nass22/github-readme-stats)
+  </div>
 </h3>
 
 ---
