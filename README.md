@@ -6,7 +6,8 @@
   Junior Back-end developer
   </br>
   </br>
-   <a href="#">
+  <div dir="auto>
+  <a href="#">
     <img src="https://img.icons8.com/color/64/000000/html-5--v1.png"/>
   </a>
   <a href="#">
@@ -24,6 +25,7 @@
   <a href="#">
     <img src="https://img.icons8.com/color/64/000000/mysql-logo.png"/>
   </a>
+  </div>
 </h3>
 </div>
 
