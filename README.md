@@ -3,7 +3,7 @@
 
 <h3>
   <div align="center">
-    Junior Back-end developer
+    Junior developer
   </div>
   
   </br>
