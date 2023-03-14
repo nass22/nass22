@@ -1,9 +1,11 @@
 
-
-<h2 align="center"> Hi, I'm Nacer Samir! <img align='right' src="https://media.giphy.com/media/2sMOUSy658zgS1CjY7/giphy.gif" width="250"></h2>
+<h2> Hi, I'm Nacer Samir! <img align='right' src="https://media.giphy.com/media/2sMOUSy658zgS1CjY7/giphy.gif" width="250"></h2>
 
 <h3>
-  Junior Back-end developer
+  <div align="center">
+    Junior Back-end developer
+  </div>
+  
   </br>
   </br>
   <div align="center">
