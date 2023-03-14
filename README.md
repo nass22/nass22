@@ -17,6 +17,9 @@
       </a>
         <img src="https://img.icons8.com/color/55/000000/javascript--v1.png"/>
       </a>
+      </a>
+        <img src="https://img.icons8.com/color/55/bootstrap.png"/>
+      </a>
       <a href="#">
         <img src="https://img.icons8.com/color/55/python.png"/>
       </a>
