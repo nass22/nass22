@@ -15,9 +15,13 @@
         <img src="https://img.icons8.com/color/55/000000/css3.png"/>
       </a>
         <img src="https://img.icons8.com/color/55/000000/javascript--v1.png"/>
-      </a>                                                                  
+      </a>
+      <a href=""><img src="https://cdn.cdnlogo.com/logos/p/71/php.svg"></a>
       <a href="#">
         <img src="https://img.icons8.com/officel/55/php-logo.png"/>
+      </a>
+      <a href="#">
+        <img src="https://img.icons8.com/fluency/55/laravel.png"/>
       </a>
       <a href="#">
         <img src="https://img.icons8.com/ios-filled/55/sql.png"/>
