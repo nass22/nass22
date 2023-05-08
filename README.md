@@ -1,5 +1,5 @@
 
-<h2> Hi, I'm Nacer Samir! <img align='right' src="https://media.giphy.com/media/2sMOUSy658zgS1CjY7/giphy.gif" width="250"></h2>
+<h2> Hi, I'm Samir Nacer! <img align='right' src="https://media.giphy.com/media/2sMOUSy658zgS1CjY7/giphy.gif" width="250"></h2>
 
 <h3>
   <div align="center">
